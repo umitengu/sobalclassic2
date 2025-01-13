@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas_Startup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5607ff90d02201941a4f84f065af5a09, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 46ed9a00711c42340b243fb2688aa27f, type: 3}
+  - {fileID: 21300000, guid: f07c9e002a2267641a0c5a4fc4708999, type: 3}
+  - {fileID: 21300000, guid: 00c819404a37a81488153f1ffac796fd, type: 3}
+  - {fileID: 21300000, guid: 8c298d604e2404f4d826bb0ad42c1137, type: 3}
+  - {fileID: 21300000, guid: fedeebe0a83a5d94a93d1d79ac55f1e6, type: 3}
+  - {fileID: 21300000, guid: ee8c5a519c8809f41a55fb894098af49, type: 3}
+  - {fileID: 21300000, guid: 9a420b61bbdb48e42a081bec8543a8e6, type: 3}
+  - {fileID: 21300000, guid: b7dd329155d753841a168040076efdcf, type: 3}
+  - {fileID: 21300000, guid: 2e0addb173a039f40a0c268842a5b9f6, type: 3}
+  - {fileID: 21300000, guid: b60d3922ea7301540a9f6c2cb41f96d1, type: 3}
+  - {fileID: 21300000, guid: ac377032c8e8ccc42a20531e504ada44, type: 3}
+  - {fileID: 21300000, guid: b912d252a707d674ebeba8f5c0925f7f, type: 3}
+  - {fileID: 21300000, guid: fa5b3a52f5d65314b9e9f005ab8572f3, type: 3}
+  - {fileID: 21300000, guid: 0fc9549282eeff340b20376a46eda043, type: 3}
+  - {fileID: 21300000, guid: ff768ba21e470bf41ac8b678f760eaf3, type: 3}
+  - {fileID: 21300000, guid: ba63d9c2d70b3704f849ebec653ea09c, type: 3}
+  - {fileID: 21300000, guid: 04b76e63a2d1f04499dc7095e2deaafd, type: 3}
+  - {fileID: 21300000, guid: 08c38f6300d248040b697e3b94f5f313, type: 3}
+  - {fileID: 21300000, guid: 33a25b735ebbdcd43b524714e60de326, type: 3}
+  - {fileID: 21300000, guid: 3a97ff733c5dac14f8315e3d24621fbb, type: 3}
+  - {fileID: 21300000, guid: 6f885a93e72fba94db97a43befb5c97b, type: 3}
+  - {fileID: 21300000, guid: b27974b38345f9d4d81c6981bcc0c5ff, type: 3}
+  - {fileID: 21300000, guid: c78c10c3b6a9ccd41bd7007dbbcf7be0, type: 3}
+  - {fileID: 21300000, guid: 174075c32ce4ea24d88fd78b564f3ef7, type: 3}
+  - {fileID: 21300000, guid: 08f515148497ec64e82abe53a0b8654b, type: 3}
+  - {fileID: 21300000, guid: 28a17f341ebfe8b4c8d6f6f5128814fb, type: 3}
+  - {fileID: 21300000, guid: ad789374672dd1f4d8a843bed1eeae25, type: 3}
+  - {fileID: 21300000, guid: 682def94dd1ebdc4694a49a3216879a8, type: 3}
+  - {fileID: 21300000, guid: 4de64ea47d8378f4cb8dbb4708622920, type: 3}
+  - {fileID: 21300000, guid: 4bb96cc4637a33349b3afc33aa00c676, type: 3}
+  - {fileID: 21300000, guid: 5d9f5d159bb457547bbf4d965db2b073, type: 3}
+  - {fileID: 21300000, guid: 951a5565f8d43824f9d1c6670c3af479, type: 3}
+  - {fileID: 21300000, guid: 55b51595aaceba7459875b5f13464972, type: 3}
+  - {fileID: 21300000, guid: 39ad2cd5bca10f042b9a0f27a4740ac8, type: 3}
+  - {fileID: 21300000, guid: a309e6e5cf5bead4d8b3be9953c11ac4, type: 3}
+  - {fileID: 21300000, guid: 0b2b34f5296ffad4fae125e2831ffd17, type: 3}
+  - {fileID: 21300000, guid: eb3715f562579654bbd0994dced1b4ed, type: 3}
+  - {fileID: 21300000, guid: 9f8bda2623994384db04901276816e6c, type: 3}
+  - {fileID: 21300000, guid: b1a5e87605d2ccb4e9677e66164a15f5, type: 3}
+  - {fileID: 21300000, guid: 4a5a20e68f2acfb4f9b093c1aa673803, type: 3}
+  - {fileID: 21300000, guid: 15da4de6072f14941b73e7c88ea0fa39, type: 3}
+  - {fileID: 21300000, guid: 5e3459174960cf44ab8efd4ab1713734, type: 3}
+  - {fileID: 21300000, guid: 199e8da7c11eb5740bbaa4184088b345, type: 3}
+  - {fileID: 21300000, guid: fa9a0bb74d906aa43a4cc588d246806e, type: 3}
+  - {fileID: 21300000, guid: fe04c5d7a3407bd49a0d3b303d6a9ebb, type: 3}
+  - {fileID: 21300000, guid: 426751281a716974cb7738058823c7e1, type: 3}
+  - {fileID: 21300000, guid: 1d8621b807bb26e448ba5dc7bca91f7e, type: 3}
+  - {fileID: 21300000, guid: 1982dd19415a7c548bdd6dfee6f2c2cf, type: 3}
+  - {fileID: 21300000, guid: c5a09459ac1b2344299a7d91644937c5, type: 3}
+  - {fileID: 21300000, guid: 886b2579cc9a9ab48a30a03df3c4d926, type: 3}
+  - {fileID: 21300000, guid: 08278f79cc3dbff4b8ca4abf0e4f7e7d, type: 3}
+  - {fileID: 21300000, guid: 347624f9cc3c5384e97b16d2b34b33c4, type: 3}
+  - {fileID: 21300000, guid: 406d683a211d2c44a9a6f8370fbcc88f, type: 3}
+  - {fileID: 21300000, guid: 88a98f3af4ea4c3469b56802d211ed9d, type: 3}
+  - {fileID: 21300000, guid: 6431899a0b2799d4698981b218cb9833, type: 3}
+  - {fileID: 21300000, guid: c9dd852b3d3007640842b365d14b29c9, type: 3}
+  - {fileID: 21300000, guid: b697104b3a17b6b488ca1390addb1b3a, type: 3}
+  - {fileID: 21300000, guid: 86bfa37c5ac3f644cbe39dddae124eac, type: 3}
+  - {fileID: 21300000, guid: bfe7a29c3f277604bb85349872720b3d, type: 3}
+  - {fileID: 21300000, guid: 529390ecfd946574fb2818fa6412e2c5, type: 3}
+  - {fileID: 21300000, guid: 6c4b5afca40e50040b4b265d799680fb, type: 3}
+  - {fileID: 21300000, guid: 1214dc0d1c2bec84db6dd45ba1525415, type: 3}
+  - {fileID: 21300000, guid: 9ecaf61d9757e5341ad7f049595edd6b, type: 3}
+  - {fileID: 21300000, guid: d481553d3fa49c54a9c50f1a6f9ffdde, type: 3}
+  - {fileID: 21300000, guid: 664cf44d40e1f794da24b93e21273aac, type: 3}
+  - {fileID: 21300000, guid: 2f4d517d066dd7e4cb07aa000cc19dd9, type: 3}
+  - {fileID: 21300000, guid: f84d3c7d3993e3e47b68eea324ac4c10, type: 3}
+  - {fileID: 21300000, guid: 181361ad711ca394593ce13633183731, type: 3}
+  - {fileID: 21300000, guid: 5d78aefd81b226b4e940c18ef29783e4, type: 3}
+  - {fileID: 21300000, guid: 1dfcd40e56efcf041b62f68b33adc65b, type: 3}
+  - {fileID: 21300000, guid: 1c4d5e1e2db35ef4bac6567db881fa17, type: 3}
+  - {fileID: 21300000, guid: 42044b3eab6c6c745921df2fc6a5a597, type: 3}
+  - {fileID: 21300000, guid: 0cc2609e6aa223f44b6ee4d314f12159, type: 3}
+  - {fileID: 21300000, guid: 4bdc5dde242d406468a457d20653cc70, type: 3}
+  - {fileID: 21300000, guid: 860b28fe8c7be2943a23e4df55b46ffc, type: 3}
+  - {fileID: 21300000, guid: bdaa300fc002c254a9ac1ec0b2ebc079, type: 3}
+  - {fileID: 21300000, guid: aea0d33fcfff0574295f5762d07518c0, type: 3}
+  - {fileID: 21300000, guid: 208dce6f5a6865e4db4f04b820c3a666, type: 3}
+  - {fileID: 21300000, guid: a196ce9f73a11c446ba91fc56f26124b, type: 3}
+  - {fileID: 21300000, guid: a1044dbff25081b468268df587bb614c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ic_initial_main
+  - ic_img_wear_sensor
+  - ic_sensor_list_head
+  - ic_wear_hand_pc
+  - ic_mv_sensor_preparation_waist_poweron
+  - ic_wear_hip_l
+  - ic_sensor_wear_position_guide_slimevr
+  - ic_mv_sensor_ng_1
+  - ic_sensor_wear_position_guide_4
+  - ic_wear_wrist_l
+  - ic_wear_ankle_l
+  - ic_connecting_battery_lv0
+  - ic_connecting_battery_lv2
+  - ic_sensor_wear_position_guide_upperbody
+  - ic_mv_sensor_preparation_append_checknumber
+  - ic_pc_calibration_step_03
+  - ic_wear_hand_l
+  - ic_wear_wrist_l_pc
+  - ic_tracking_type_full6_pc
+  - ic_pc_calibration_step_01
+  - ic_gyro_bias_calib_guide
+  - ic_mv_sensor_preparation_waist_checknumber
+  - ic_mv_sensor_sensing
+  - ic_mv_sensor_preparation_ankle_r_poweron
+  - ic_tracking_type_slimevr_pc
+  - ic_mv_sensor_preparation_append_poweron
+  - ic_sensor_list_wrist_l
+  - ic_wear_hip_l_pc
+  - ic_calibration_some_problems_hand
+  - ic_calibration_some_problems_hip
+  - ic_mv_sensor_ng_2
+  - ic_mv_sensor_preparation_head_checknumber
+  - ic_startup_lowerbody
+  - ic_mv_sensor_ng_3
+  - ic_wear_head_l_pc
+  - ic_wear_items_6
+  - ic_wear_items_8
+  - ic_pc_calibration_step_02
+  - ic_wear_ankle_l_pc
+  - ic_tracking_type_slimevr
+  - ic_connecting_battery_lv5
+  - ic_calibration_error
+  - ic_mv_sensor_preparation_number_8
+  - ic_startup_6sensor
+  - ic_calibration_some_problems_head
+  - ic_sensor_wear_position_guide
+  - ic_mv_sensor_preparation_number_6
+  - ic_mv_sensor_preparation_ankle_l_checknumber
+  - ic_mv_sensor_preparation_wrist_l_checknumber
+  - ic_calibration_success
+  - ic_calibration_some_problems
+  - ic_startup_8sensor
+  - ic_connecting_battery_frame
+  - ic_startup_fullbody
+  - ic_tracking_type_vr6_pc
+  - ic_mv_sensor_preparation_start
+  - ic_tracking_type_vr6
+  - ic_Sensor_append
+  - ic_mv_sensor_preparation_head_poweron
+  - ic_tracking_type_full6
+  - ic_connecting_battery_lv1
+  - ic_connecting_battery_lv4
+  - ic_calibration_some_problems_foot
+  - ic_connecting_battery_fill
+  - ic_mv_sensor_preparation_ankle_l_poweron
+  - ic_wear_knees_l
+  - ic_sensor_list_ankle_l
+  - ic_wear_head_l
+  - ic_mv_sensor_preparation_ankle_r_checknumber
+  - ic_mv_sensor_preparation_wrist_r_poweron
+  - ic_sensor_list_ankle_R
+  - ic_pc_calibration_step_start
+  - ic_tracking_type_upperbody_pc
+  - ic_connecting_battery_lv3
+  - ic_calibration_step
+  - ic_mv_sensor_preparation_wrist_l_poweron
+  - ic_sensor_list_waist
+  - ic_mv_sensor_preparation_wrist_r_checknumber
+  - ic_tracking_type_upperbody
+  - ic_sensor_list_wrist_r
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas_Startup
+  m_IsVariant: 0

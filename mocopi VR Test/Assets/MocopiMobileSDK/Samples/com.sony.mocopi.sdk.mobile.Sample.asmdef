@@ -1,0 +1,21 @@
+{
+    "name": "com.sony.mocopi.sdk.mobile.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0ab5f5851a7b04de7b1aeb102b9649e2",
+        "GUID:eca2fdb642abb20419e1cdec7367a6ce"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

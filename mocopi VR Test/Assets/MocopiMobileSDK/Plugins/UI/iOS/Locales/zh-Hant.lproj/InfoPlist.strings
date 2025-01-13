@@ -1,0 +1,15 @@
+/* Localized versions of Info.plist keys */
+
+"NSBluetoothAlwaysUsageDescription" = "此应用程序需要蓝牙，才能与传感器进行交互";
+
+"NSBluetoothPeripheralUsageDescription" = "此应用程序需要蓝牙，才能与传感器进行交互";
+
+"NSLocalNetworkUsageDescription" = "此应用程序需要访问您的本地网络，才能发送动作数据";
+
+"NSMicrophoneUsageDescription" = "此应用程序需要访问您的麦克风，才能录制音频";
+
+"NSPhotoLibraryAddUsageDescription" = "此应用程序需要访问您的照片库，才能保存此视频";
+
+"NSPhotoLibraryUsageDescription" =  "此应用程序需要访问您的照片库，才能选择背景";
+ 
+"NSCameraUsageDescription" = "此应用程序需要访问您的相机以使用 AR 功能以及拍摄背景照片";

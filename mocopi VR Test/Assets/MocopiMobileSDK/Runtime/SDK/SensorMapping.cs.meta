@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:MocopiMobileSDK/Assets/MocopiMobileSdk/Samples/Scenes/Tracking/Scripts/TrackingController.cs.meta
+guid: 4edf21e8a12321a4bbac6a866d2eb455
+========
+guid: db6cfa8f45e54374587edb0b515e310c
+>>>>>>>> 21707b9af065616e1079b7e85a8f46da83d41588:MocopiMobileSDK/Assets/MocopiMobileSdk/Runtime/SensorMapping.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

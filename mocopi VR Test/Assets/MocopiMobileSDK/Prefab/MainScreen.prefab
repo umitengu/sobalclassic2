@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7241950087207020581
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7241950087207020583}
+  - component: {fileID: 7241950087207020580}
+  m_Layer: 0
+  m_Name: MainScreen
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7241950087207020583
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7241950087207020581}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7241950087207020580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7241950087207020581}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51eccb5b8c6d99a40ae710a93549c45d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _main: {fileID: 0}
+  _controller: {fileID: 0}
+  _bvhPreview: {fileID: 0}
+  _bvhPreviewStart: {fileID: 0}
+  _editBackground: {fileID: 0}
+  _capturedMotion: {fileID: 0}
+  _avatar: {fileID: 0}
+  _settingBackground: {fileID: 0}
+  _recordingScreen: {fileID: 0}
+  _resetPose: {fileID: 0}
+  _checkSensors: {fileID: 0}
+  _avatarQualityAlert: {fileID: 0}
+  _customColor: {fileID: 0}
+  _vRoidHubPanel: {fileID: 0}
+  _lightSettings: {fileID: 0}
+  _maskPanel: {fileID: 0}
+  _backgroundAboutApp: {fileID: 0}
+  _backgroundExperimentalSetting: {fileID: 0}
+  _backgroundLicenseInformation: {fileID: 0}
+  _backgroundPCConnectionSettings: {fileID: 0}
+  _backgroundOption: {fileID: 0}
+  _backgroundRenameBvhFile: {fileID: 0}
+  _mainPanel: {fileID: 0}
+  _overlayPanel: {fileID: 0}
+  _headerPanel: {fileID: 0}
+  _lightSettingFooterPanel: {fileID: 0}
+  _titlePrefab: {fileID: 3766264475058424868, guid: 72d592b15e48c0e4db0e1df670adea0a, type: 3}
+  _trackingHeaderPrefab: {fileID: 3766264475058424868, guid: a64168eb68ee25e40b341d48ff129a78, type: 3}
+  _menuItemPrefab: {fileID: 5623095889413287431, guid: 423966ff47d9a654abb96083d05c3e0e, type: 3}
+  _pcConnectionSettingsPrefab: {fileID: 461069366388268142, guid: 97be59c984b238d4da5437b73a107f52, type: 3}
+  _aboutAppPrefab: {fileID: 461069366388268142, guid: 3fd1a6ccf9f6b5948973fe1cb1a53e8c, type: 3}
+  _experimentalSettingPrefab: {fileID: 0}
+  _licenseInformationPrefab: {fileID: 461069366388268142, guid: 08ecddf1aaca5484ba6367710b2ae048, type: 3}
+  _renameBvhFilePrefab: {fileID: 461069366388268142, guid: 546d5bc1ccd9332499c63dbf37c2415c, type: 3}
+  _notificationPrefab: {fileID: 3766264475058424868, guid: db2da8356e800ea41877f1b0b208e351, type: 3}
+  _loadingPanelPrefab: {fileID: 7523248139254222204, guid: 2c87c2f494adb4d44b1972558caa1a19, type: 3}
+  _fraction: {fileID: 3071466229754599926, guid: 26bfaf12ef40d0d47a144cd1f94ea12c, type: 3}
+  _optionPrefab: {fileID: 8936673279777307349, guid: 6a72df9fff8bc9a4e8a68d240970a573, type: 3}
+  _toastPrefab: {fileID: 8044573367469773624, guid: 9edaa4e50b8c1e847bb4b2a1cd375304, type: 3}
+  _bottomButtonPrefab: {fileID: 6598757619854076702, guid: 778262dcc20d5784b94601909e0a1676, type: 3}
+  _parentBottomButton: {fileID: 0}
+  _settingsPanel: {fileID: 0}

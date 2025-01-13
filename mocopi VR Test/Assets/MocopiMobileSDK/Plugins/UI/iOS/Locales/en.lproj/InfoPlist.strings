@@ -1,0 +1,15 @@
+/* Localized versions of Info.plist keys */
+
+"NSBluetoothAlwaysUsageDescription" = "This application requires Bluetooth in order to interact with sensors";
+
+"NSBluetoothPeripheralUsageDescription" = "This application requires Bluetooth in order to interact with sensors";
+
+"NSLocalNetworkUsageDescription" = "This application requires access to your local network in order to send motion data";
+
+"NSMicrophoneUsageDescription" = "This application requires access to your mic in order to record audio";
+
+"NSPhotoLibraryAddUsageDescription" = "This application requires access to your photo library in order to save this video";
+
+"NSPhotoLibraryUsageDescription" =  "This application requires access to your photo library in order to select backgrounds";
+
+"NSCameraUsageDescription" = "This app requires access to your camera to use augmented reality features and take photos for backgrounds";

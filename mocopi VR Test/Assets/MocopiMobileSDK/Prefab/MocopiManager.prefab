@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1963868634639807742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6326413250134150568}
+  - component: {fileID: 7357978635547065276}
+  m_Layer: 0
+  m_Name: MocopiManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6326413250134150568
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963868634639807742}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7357978635547065276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963868634639807742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04c6723d9593b4e4c98b1442a4b01a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EventHandleSettings:
+    OnSensorFound:
+      m_PersistentCalls:
+        m_Calls: []
+    OnSensorConnect:
+      m_PersistentCalls:
+        m_Calls: []
+    OnSensorDisconnected:
+      m_PersistentCalls:
+        m_Calls: []
+    OnAllSensorReady:
+      m_PersistentCalls:
+        m_Calls: []
+    OnCalibrationUpdated:
+      m_PersistentCalls:
+        m_Calls: []
+    OnRecordingMotionUpdated:
+      m_PersistentCalls:
+        m_Calls: []
+    OnBvhConvertProgressUpdated:
+      m_PersistentCalls:
+        m_Calls: []
+    OnRenameBvhFileCompleted:
+      m_PersistentCalls:
+        m_Calls: []
+    OnDeleteBvhFileCompleted:
+      m_PersistentCalls:
+        m_Calls: []
+    OnRecordingBvhExternalStorageUriSelected:
+      m_PersistentCalls:
+        m_Calls: []
+    OnFixedHipSwitched:
+      m_PersistentCalls:
+        m_Calls: []
+    OnSensorBatteryLevelUpdate:
+      m_PersistentCalls:
+        m_Calls: []
+    OnUdpStreamingError:
+      m_PersistentCalls:
+        m_Calls: []
+    OnSensorConnectedStably:
+      m_PersistentCalls:
+        m_Calls: []
+    OnGetRecordedBvhFileInformations:
+      m_PersistentCalls:
+        m_Calls: []
+    OnRecordingFileRead:
+      m_PersistentCalls:
+        m_Calls: []
+    OnRecordingFileReadFailed:
+      m_PersistentCalls:
+        m_Calls: []
+    OnBvhStreamingStatusUpdated:
+      m_PersistentCalls:
+        m_Calls: []
+    OnBvhStreamingReadProgress:
+      m_PersistentCalls:
+        m_Calls: []
+    OnBvhStreamingStarted:
+      m_PersistentCalls:
+        m_Calls: []
+    OnBvhStreamingReadFrame:
+      m_PersistentCalls:
+        m_Calls: []
+  runMode: 0
+  stubMode: 1
+  buildTarget: 0
+  sensorSettingsList:
+  - IsCauseConnectionFailed: 0
+    IsCauseGettingBatteryFailed: 0
+    BatteryLevel: 90
+    FirmwareVersion: 1.1.0
+    RandomDisconnectSensor: 0
+    RandomSucceededSensorCalibration: 70
+    HasSensorCalibrationSucceeded: 0
+  - IsCauseConnectionFailed: 0
+    IsCauseGettingBatteryFailed: 0
+    BatteryLevel: 90
+    FirmwareVersion: 1.1.0
+    RandomDisconnectSensor: 0
+    RandomSucceededSensorCalibration: 70
+    HasSensorCalibrationSucceeded: 0
+  - IsCauseConnectionFailed: 0
+    IsCauseGettingBatteryFailed: 0
+    BatteryLevel: 90
+    FirmwareVersion: 1.1.0
+    RandomDisconnectSensor: 0
+    RandomSucceededSensorCalibration: 70
+    HasSensorCalibrationSucceeded: 0
+  - IsCauseConnectionFailed: 0
+    IsCauseGettingBatteryFailed: 0
+    BatteryLevel: 90
+    FirmwareVersion: 1.1.0
+    RandomDisconnectSensor: 0
+    RandomSucceededSensorCalibration: 70
+    HasSensorCalibrationSucceeded: 0
+  - IsCauseConnectionFailed: 0
+    IsCauseGettingBatteryFailed: 0
+    BatteryLevel: 90
+    FirmwareVersion: 1.1.0
+    RandomDisconnectSensor: 0
+    RandomSucceededSensorCalibration: 70
+    HasSensorCalibrationSucceeded: 0
+  - IsCauseConnectionFailed: 0
+    IsCauseGettingBatteryFailed: 0
+    BatteryLevel: 90
+    FirmwareVersion: 1.1.0
+    RandomDisconnectSensor: 0
+    RandomSucceededSensorCalibration: 70
+    HasSensorCalibrationSucceeded: 0
+  - IsCauseConnectionFailed: 0
+    IsCauseGettingBatteryFailed: 0
+    BatteryLevel: 90
+    FirmwareVersion: 1.1.0
+    RandomDisconnectSensor: 0
+    RandomSucceededSensorCalibration: 70
+    HasSensorCalibrationSucceeded: 0
+  - IsCauseConnectionFailed: 0
+    IsCauseGettingBatteryFailed: 0
+    BatteryLevel: 90
+    FirmwareVersion: 1.1.0
+    RandomDisconnectSensor: 0
+    RandomSucceededSensorCalibration: 70
+    HasSensorCalibrationSucceeded: 0
+  mocopiAvatar: {fileID: 0}

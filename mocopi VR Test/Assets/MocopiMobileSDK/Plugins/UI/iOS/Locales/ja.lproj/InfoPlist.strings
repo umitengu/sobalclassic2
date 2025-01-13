@@ -1,0 +1,15 @@
+/* Localized versions of Info.plist keys */
+
+"NSBluetoothAlwaysUsageDescription" = "このアプリではセンサーと通信するためにBluetoothを使用します";
+
+"NSBluetoothPeripheralUsageDescription" = "このアプリではセンサーと通信するためにBluetoothを使用します";
+
+"NSLocalNetworkUsageDescription" = "このアプリではモーションデータを送信するためにローカルネットワークを利用します";
+
+"NSMicrophoneUsageDescription" = "このアプリでは音声をビデオに記録するためにマイクを使用します";
+
+"NSPhotoLibraryAddUsageDescription" = "このアプリでは記録したビデオを保存するためにフォトライブラリにアクセスします";
+
+"NSPhotoLibraryUsageDescription" =  "このアプリでは壁紙を選択するためにフォトライブラリにアクセスします";
+
+"NSCameraUsageDescription" = "このアプリではAR機能または背景画像の撮影のためにカメラを使用します";
