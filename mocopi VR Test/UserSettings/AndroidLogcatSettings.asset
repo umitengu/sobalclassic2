@@ -3,7 +3,7 @@
     "m_SelectedProcess": {
         "deviceId": "2G0YC1ZG4Q02L6",
         "name": "com.DefaultCompany.mocopiVRTest",
-        "processId": 13001,
+        "processId": 12750,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -78,24 +78,6 @@
             "deviceId": "2G0YC1ZG4Q02L6",
             "name": "com.DefaultCompany.mocopiVRTest",
             "processId": 12750,
-            "exited": false
-        },
-        {
-            "deviceId": "2G0YC1ZG4Q02L6",
-            "name": "com.DefaultCompany.mocopiVRTest",
-            "processId": 11118,
-            "exited": false
-        },
-        {
-            "deviceId": "2G0YC1ZG4Q02L6",
-            "name": "com.DefaultCompany.mocopiVRTest",
-            "processId": 11670,
-            "exited": false
-        },
-        {
-            "deviceId": "2G0YC1ZG4Q02L6",
-            "name": "com.DefaultCompany.mocopiVRTest",
-            "processId": 13001,
             "exited": false
         }
     ],
